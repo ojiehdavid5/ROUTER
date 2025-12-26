@@ -3,7 +3,7 @@ import (
 	"fmt")
 
 	func main() {
-		fmt.Println("Hello, World! being of folben")
+		fmt.Println("Hello, World! ")
 	}
 
 	
